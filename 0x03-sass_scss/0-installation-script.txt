@@ -1,0 +1,8 @@
+1. Installed NVM for Windows from https://github.com/coreybutler/nvm-windows/releases
+
+2. Installed Node.js version 20.16.0 using:
+   nvm install 20.16.0
+   nvm use 20.16.0
+
+3. Installed SASS version 3.7.4 using:
+   npm install sass@3.7.4
